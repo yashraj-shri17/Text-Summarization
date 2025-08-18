@@ -1,0 +1,47 @@
+langchain
+python-dotenv
+langchain_community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+langchain-community
+sentence-transformers
+langchain_ollama
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+langchain_core
+streamlit
+langchain_groq
+fastapi
+uvicorn
+langserve
+sse_starlette
+duckduckgo-search
+
+# Needed for Hugging Face authentication & model loading
+huggingface-hub
+
+# Notebook support
+jupyter
+ipykernel
+
+# Optional but useful
+tqdm
+requests
+
+SQLAlchemy 
+mysql-connector-python
+
+validator
+youtube-transcript-api
+
+unstructured
+pytube
+
+numexpr
