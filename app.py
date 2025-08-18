@@ -4,6 +4,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chains.summarize import load_summarize_chain
 from langchain_community.document_loaders import YoutubeLoader, UnstructuredURLLoader
 from langchain_groq import ChatGroq
+from langchain.schema import Document  # ✅ Added missing import
 from pytube import YouTube
 from urllib.parse import urlparse, parse_qs
 import re

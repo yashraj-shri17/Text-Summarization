@@ -9,7 +9,6 @@ wikipedia
 langchain-text-splitters
 langchain-openai
 chromadb
-langchain-community
 sentence-transformers
 langchain_ollama
 langchain_huggingface
@@ -38,7 +37,7 @@ requests
 SQLAlchemy 
 mysql-connector-python
 
-validator
+validators
 youtube-transcript-api
 
 unstructured
