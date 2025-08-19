@@ -10,7 +10,7 @@ from urllib.parse import urlparse, parse_qs
 import re
 import requests
 from typing import Optional, List
-## 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
+## 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  mm
 
 # Page setup
 st.set_page_config(
@@ -197,4 +197,5 @@ if st.button("Generate Summary", type="primary"):
                         st.write(f"**Author:** {documents[0].metadata['author']}")
 
         except Exception as e:
+
             st.error(f"Processing error: {str(e)}")
